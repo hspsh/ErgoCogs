@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name libraries)(type KiCad)(uri ${KIPRJMOD}/libraries.pretty)(options "")(descr ""))
-  (lib (name "ErgoDOX pcb")(type KiCad)(uri "${KIPRJMOD}/libraries/ErgoDOX pcb.pretty")(options "")(descr ""))
-)
