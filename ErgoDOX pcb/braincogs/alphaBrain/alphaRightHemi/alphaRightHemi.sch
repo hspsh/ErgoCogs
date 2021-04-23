@@ -34,24 +34,10 @@ Text Label 5100 3550 0    60   ~ 0
 ROW1
 Text Label 5100 3650 0    60   ~ 0
 ROW0
-Text Label 5100 1050 0    60   ~ 0
-COL7
-Text Label 5100 1150 0    60   ~ 0
-COL8
-Text Label 5100 1900 0    60   ~ 0
-COL13
-Text Label 5100 2350 0    60   ~ 0
-COL11
-Text Label 5100 1350 0    60   ~ 0
-COL10
-Text Label 5100 1250 0    60   ~ 0
-COL9
 Text Label 5100 1550 0    60   ~ 0
 LED_A
 Text Label 5100 1650 0    60   ~ 0
 LED_B
-Text Label 5100 2450 0    60   ~ 0
-COL12
 $Comp
 L ergodox_components:TEENSY2.0 U1
 U 1 1 4FDC2FE7
@@ -81,28 +67,6 @@ F 2 "" H 3850 3300 60  0001 C CNN
 F 3 "" H 3850 3300 60  0001 C CNN
 	1    3850 3300
 	0    1    1    0   
-$EndComp
-$Comp
-L ergodox_components:VCC #PWR016
-U 1 1 500D1293
-P 5100 1450
-F 0 "#PWR016" H 5100 1550 30  0001 C CNN
-F 1 "VCC" H 5100 1550 30  0000 C CNN
-F 2 "" H 5100 1450 60  0001 C CNN
-F 3 "" H 5100 1450 60  0001 C CNN
-	1    5100 1450
-	0    1    1    0   
-$EndComp
-$Comp
-L ergodox_components:GND #PWR018
-U 1 1 500D156C
-P 5150 2750
-F 0 "#PWR018" H 5150 2750 30  0001 C CNN
-F 1 "GND" H 5150 2680 30  0001 C CNN
-F 2 "" H 5150 2750 60  0001 C CNN
-F 3 "" H 5150 2750 60  0001 C CNN
-	1    5150 2750
-	0    -1   -1   0   
 $EndComp
 $Comp
 L ergodox_components:VCC #PWR019
@@ -210,18 +174,10 @@ Wire Wire Line
 	8950 2800 8500 2800
 Text Label 8500 2700 2    60   ~ 0
 COL1_12
-Text Label 8500 2200 2    60   ~ 0
-COL6_7
-Text Label 8500 2300 2    60   ~ 0
-COL5_8
 Text Label 8500 2800 2    60   ~ 0
 COL0_13
 Text Label 8500 2600 2    60   ~ 0
 COL2_11
-Text Label 8500 2500 2    60   ~ 0
-COL3_10
-Text Label 8500 2400 2    60   ~ 0
-COL4_9
 $Comp
 L ergodox_components:VCC #PWR0101
 U 1 1 605CBA9A
@@ -587,150 +543,45 @@ Wire Wire Line
 	1300 4200 1500 4200
 Wire Wire Line
 	1500 4200 1500 4850
-$Comp
-L ergodox_components:GND #PWR0108
-U 1 1 606E176F
-P 4300 7050
-F 0 "#PWR0108" H 4300 7050 30  0001 C CNN
-F 1 "GND" H 4300 6980 30  0001 C CNN
-F 2 "" H 4300 7050 60  0001 C CNN
-F 3 "" H 4300 7050 60  0001 C CNN
-	1    4300 7050
-	1    0    0    -1  
-$EndComp
-NoConn ~ 5100 5900
-$Comp
-L ergodox_components:VCC #PWR0103
-U 1 1 6069FC7D
-P 3250 5050
-F 0 "#PWR0103" H 3250 5150 30  0001 C CNN
-F 1 "VCC" H 3250 5150 30  0000 C CNN
-F 2 "" H 3250 5050 60  0001 C CNN
-F 3 "" H 3250 5050 60  0001 C CNN
-	1    3250 5050
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
-	3250 5050 3250 5200
+	2100 4300 5550 4300
 Wire Wire Line
-	3250 5200 3500 5200
-Wire Wire Line
-	4300 7000 4300 6900
-$Comp
-L ergodox_components:MCP23018 U2
-U 1 1 60871D6B
-P 4300 6000
-F 0 "U2" H 3850 7000 60  0000 C CNN
-F 1 "MCP23018" H 4650 5000 60  0000 C CNN
-F 2 "Package_DIP:DIP-28_W7.62mm" H 4300 6000 50  0001 C CNN
-F 3 "" H 4300 6000 50  0001 C CNN
-	1    4300 6000
-	1    0    0    -1  
-$EndComp
-Text Label 5900 5600 0    60   ~ 0
+	2400 4500 5650 4500
+Text Label 8500 2400 2    60   ~ 0
 COL4_9
-Text Label 5900 5500 0    60   ~ 0
+Text Label 8500 2500 2    60   ~ 0
 COL3_10
-Text Label 5900 5400 0    60   ~ 0
-COL2_11
-Text Label 5900 5200 0    60   ~ 0
-COL0_13
-Text Label 5900 5700 0    60   ~ 0
+Text Label 8500 2300 2    60   ~ 0
 COL5_8
-Text Label 5900 5800 0    60   ~ 0
+Text Label 8500 2200 2    60   ~ 0
 COL6_7
-Text Label 5900 5300 0    60   ~ 0
+Text Label 5100 1250 0    60   ~ 0
+COL4_9
+Text Label 5100 1150 0    60   ~ 0
+COL5_8
+Text Label 5100 1050 0    60   ~ 0
+COL6_7
+Text Label 5100 2450 0    60   ~ 0
 COL1_12
-Wire Wire Line
-	5100 5200 5900 5200
-Wire Wire Line
-	5100 5300 5900 5300
-Wire Wire Line
-	5100 5400 5900 5400
-Wire Wire Line
-	5100 5500 5900 5500
-Wire Wire Line
-	5100 5600 5900 5600
-Wire Wire Line
-	5100 5700 5900 5700
-Wire Wire Line
-	5100 5800 5900 5800
-Wire Wire Line
-	5100 6700 5900 6700
-Wire Wire Line
-	5100 6800 5900 6800
-Text Label 5900 6700 0    60   ~ 0
-LED_B
-Text Label 5900 6800 0    60   ~ 0
-LED_A
-Text Label 5900 6100 0    60   ~ 0
-ROW5
-Text Label 5900 6600 0    60   ~ 0
-ROW0
-Text Label 5900 6500 0    60   ~ 0
-ROW1
-Text Label 5900 6400 0    60   ~ 0
-ROW2
-Text Label 5900 6300 0    60   ~ 0
-ROW3
-Text Label 5900 6200 0    60   ~ 0
-ROW4
-Wire Wire Line
-	5900 6600 5100 6600
-Wire Wire Line
-	5900 6500 5100 6500
-Wire Wire Line
-	5900 6400 5100 6400
-Wire Wire Line
-	5900 6300 5100 6300
-Wire Wire Line
-	5900 6200 5100 6200
-Wire Wire Line
-	5900 6100 5100 6100
+Text Label 5100 2350 0    60   ~ 0
+COL2_11
+Text Label 5100 1350 0    60   ~ 0
+COL3_10
+Text Label 5100 1900 0    60   ~ 0
+COL0_13
 $Comp
-L ergodox_components:VCC #PWR0114
-U 1 1 608B56CF
-P 4300 5000
-F 0 "#PWR0114" H 4300 5100 30  0001 C CNN
-F 1 "VCC" H 4303 5128 30  0000 C CNN
-F 2 "" H 4300 5000 50  0001 C CNN
-F 3 "" H 4300 5000 50  0001 C CNN
-	1    4300 5000
+L ergodox_components:GND #PWR018
+U 1 1 500D156C
+P 5250 2850
+F 0 "#PWR018" H 5250 2850 30  0001 C CNN
+F 1 "GND" H 5250 2780 30  0001 C CNN
+F 2 "" H 5250 2850 60  0001 C CNN
+F 3 "" H 5250 2850 60  0001 C CNN
+	1    5250 2850
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4300 5000 4300 5100
+	5250 2800 5250 2750
 Wire Wire Line
-	3500 5450 3100 5450
-Wire Wire Line
-	3100 5450 3100 4300
-Wire Wire Line
-	2100 4300 3100 4300
-Wire Wire Line
-	3100 4300 5550 4300
-Connection ~ 3100 4300
-Wire Wire Line
-	3000 4500 3000 5550
-Wire Wire Line
-	3000 5550 3500 5550
-Wire Wire Line
-	2400 4500 3000 4500
-Wire Wire Line
-	3000 4500 5650 4500
-Connection ~ 3000 4500
-Wire Wire Line
-	3500 5750 3000 5750
-Wire Wire Line
-	3000 5750 3000 6000
-$Comp
-L ergodox_components:GND #PWR0115
-U 1 1 608E6949
-P 3000 6050
-F 0 "#PWR0115" H 3000 6050 30  0001 C CNN
-F 1 "GND" H 3000 5980 30  0001 C CNN
-F 2 "" H 3000 6050 60  0001 C CNN
-F 3 "" H 3000 6050 60  0001 C CNN
-	1    3000 6050
-	1    0    0    -1  
-$EndComp
+	5250 2750 5100 2750
 $EndSCHEMATC

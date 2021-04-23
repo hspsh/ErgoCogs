@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC Part #
+WS2812B RGB LED with integrated controller,"D1,D4",LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,
+D ,"D1:7,D1:8",DIODE,
+LED_R ,"D2,D3",LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,
+LED_G ,"D5,D6",LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,
+MECHANICAL ,H99,ErgoDOXmech,
+"Conn_01x06 Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",J1,ErgoCogs_sidecon_top,
+"Conn_01x10 Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)",J2,ErgoCogs_sidecon_bot,
+"470 Resistor, small symbol","R1,R2,R3,R4",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,
+STAB200 ,"S1,S2",STAB_PCB940,
+SW_DIODE,"DS1,DS2,DS3,DS4,DS5,DS6,DS7,DS8,DS9,DS10,DS11,DS12,DS13,DS14,DS15,DS16,DS17,DS18,DS19,DS20,DS21,DS22,DS23,DS24,DS25,DS26,DS27,DS28,DS29,DS30,DS31,DS32,DS33,DS34,DS35,DS36,DS37,DS38,",DO-35

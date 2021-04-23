@@ -1,0 +1,47 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"D1","WS2812B","LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm",190.650000,-54.750000,0.000000,top
+"D2","LED_R","LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",181.950000,-54.725000,270.000000,top
+"D5","LED_G","LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",190.650000,-54.725000,270.000000,top
+"J1","Conn_01x06","ErgoCogs_sidecon_top",74.500000,-74.220000,0.000000,top
+"J2","Conn_01x10","ErgoCogs_sidecon_bot",74.641000,-98.000000,0.000000,top
+"R1","470","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",183.950000,-54.637500,270.000000,top
+"R2","470","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",185.700000,-54.637500,270.000000,top
+"DS0","generic diode","DO-35",70.945000,-157.897000,115.000000,top
+"DS1","generic diode","DO-35",88.209000,-149.845000,115.000000,top
+"DS2","generic diode","DO-35",191.452000,-74.625000,0.000000,top
+"DS3","generic diode","DO-35",167.640000,-74.625000,0.000000,top
+"DS4","generic diode","DO-35",148.590000,-71.448000,0.000000,top
+"DS5","generic diode","DO-35",129.540000,-69.850000,0.000000,top
+"DS6","generic diode","DO-35",110.490000,-71.448000,0.000000,top
+"DS7","generic diode","DO-35",91.440000,-72.720000,0.000000,top
+"DS8","generic diode","DO-35",80.010000,-65.100000,90.000000,top
+"DS9","generic diode","DO-35",191.452000,-93.673000,0.000000,top
+"DS10","generic diode","DO-35",167.640000,-93.673000,0.000000,top
+"DS11","generic diode","DO-35",148.590000,-90.498000,0.000000,top
+"DS12","generic diode","DO-35",129.540000,-88.900000,0.000000,top
+"DS13","generic diode","DO-35",110.490000,-90.498000,0.000000,top
+"DS14","generic diode","DO-35",91.440000,-91.768000,0.000000,top
+"DS15","generic diode","DO-35",80.010000,-88.910000,90.000000,top
+"DS16","generic diode","DO-35",191.452000,-112.723000,0.000000,top
+"DS17","generic diode","DO-35",167.640000,-112.723000,0.000000,top
+"DS18","generic diode","DO-35",148.590000,-109.548000,0.000000,top
+"DS19","generic diode","DO-35",129.540000,-107.950000,0.000000,top
+"DS20","generic diode","DO-35",110.490000,-109.548000,0.000000,top
+"DS21","generic diode","DO-35",91.440000,-110.818000,0.000000,top
+"DS22","generic diode","DO-35",191.452000,-131.773000,0.000000,top
+"DS23","generic diode","DO-35",167.640000,-131.773000,0.000000,top
+"DS24","generic diode","DO-35",148.590000,-128.598000,0.000000,top
+"DS25","generic diode","DO-35",129.540000,-127.000000,0.000000,top
+"DS26","generic diode","DO-35",110.490000,-128.598000,0.000000,top
+"DS27","generic diode","DO-35",91.440000,-129.868000,0.000000,top
+"DS28","generic diode","DO-35",80.010000,-117.485000,90.000000,top
+"DS29","generic diode","DO-35",186.690000,-150.823000,0.000000,top
+"DS30","generic diode","DO-35",167.640000,-150.823000,0.000000,top
+"DS31","generic diode","DO-35",148.590000,-147.648000,0.000000,top
+"DS32","generic diode","DO-35",129.540000,-146.050000,0.000000,top
+"DS33","generic diode","DO-35",110.490000,-147.648000,0.000000,top
+"DS34","generic diode","DO-35",54.020000,-184.706000,25.000000,top
+"DS35","generic diode","DO-35",45.969000,-167.439000,25.000000,top
+"DS36","generic diode","DO-35",55.184000,-142.126000,25.000000,top
+"DS37","generic diode","DO-35",37.919000,-150.175000,25.000000,top
+

@@ -45,18 +45,10 @@ F 3 "" H 8150 4500 60  0001 C CNN
 $EndComp
 Text Label 5450 4900 2    60   ~ 0
 ROW0
-Text Label 6550 5700 3    60   ~ 0
-COL5
-Text Label 10050 5700 3    60   ~ 0
-COL0
-Text Label 9350 5700 3    60   ~ 0
-COL1
-Text Label 8650 5700 3    60   ~ 0
-COL2
-Text Label 7950 5700 3    60   ~ 0
-COL3
-Text Label 7250 5700 3    60   ~ 0
-COL4
+Text Label 9350 5650 3    60   ~ 0
+COL1_12
+Text Label 7250 5600 3    60   ~ 0
+COL4_9
 $Comp
 L ergodox_components:SWITCH_DIODE SW0:9
 U 1 1 4EB1DE18
@@ -521,18 +513,10 @@ F 3 "" H 8150 5400 60  0001 C CNN
 	1    8150 5400
 	1    0    0    -1  
 $EndComp
-Text Label 9350 5400 3    60   ~ 0
-COL12
-Text Label 6550 5400 3    60   ~ 0
-COL8
-Text Label 10050 5400 3    60   ~ 0
-COL13
-Text Label 8650 5400 3    60   ~ 0
-COL11
-Text Label 7950 5400 3    60   ~ 0
-COL10
-Text Label 7250 5400 3    60   ~ 0
-COL9
+Text Label 8650 5600 3    60   ~ 0
+COL2_11
+Text Label 7950 5600 3    60   ~ 0
+COL3_10
 Wire Wire Line
 	6350 5250 6350 5150
 Wire Wire Line
@@ -1059,34 +1043,10 @@ F 3 "" H 1100 3850 60  0001 C CNN
 	1    1100 3850
 	1    0    0    -1  
 $EndComp
-Text Label 1450 2950 0    60   ~ 0
-COL6
-Text Label 1450 3050 0    60   ~ 0
-COL5
-Text Label 1450 3550 0    60   ~ 0
-COL0
-Text Label 1450 3450 0    60   ~ 0
-COL1
-Text Label 1450 3350 0    60   ~ 0
-COL2
-Text Label 1450 3250 0    60   ~ 0
-COL3
-Text Label 1450 3150 0    60   ~ 0
-COL4
-Text Label 1150 3450 0    60   ~ 0
-COL12
-Text Label 1150 2950 0    60   ~ 0
-COL7
-Text Label 1150 3050 0    60   ~ 0
-COL8
 Text Label 1150 3550 0    60   ~ 0
-COL13
-Text Label 1150 3350 0    60   ~ 0
-COL11
-Text Label 1150 3250 0    60   ~ 0
-COL10
-Text Label 1150 3150 0    60   ~ 0
-COL9
+COL0_13
+Text Label 1150 3050 0    60   ~ 0
+COL5_8
 Wire Wire Line
 	1000 2950 1450 2950
 Wire Wire Line
@@ -1190,10 +1150,6 @@ Wire Wire Line
 	1200 2650 1000 2650
 Wire Wire Line
 	1200 2150 1200 2650
-Text Label 5850 5400 3    60   ~ 0
-COL7
-Text Label 5850 5700 3    60   ~ 0
-COL6
 $Comp
 L ergodox_components:LED D2
 U 1 1 607386A2
@@ -1466,4 +1422,20 @@ Text Notes 4100 3150 0    50   ~ 0
 TOP
 Text Notes 4100 3700 0    50   ~ 0
 BOT
+Text Label 1150 2950 0    60   ~ 0
+COL6_7
+Text Label 5850 5550 3    60   ~ 0
+COL6_7
+Text Label 6550 5600 3    60   ~ 0
+COL5_8
+Text Label 1150 3450 0    60   ~ 0
+COL1_12
+Text Label 1150 3350 0    60   ~ 0
+COL2_11
+Text Label 1150 3250 0    60   ~ 0
+COL3_10
+Text Label 1150 3150 0    60   ~ 0
+COL4_9
+Text Label 10050 5600 3    60   ~ 0
+COL0_13
 $EndSCHEMATC

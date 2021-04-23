@@ -1,0 +1,4533 @@
+## Footprint report - date Thu Apr 15 00:17:23 2021
+## Created by Pcbnew version kicad 5.1.9
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 22.890479 49.000000
+lower_right_corner 282.942514 189.542421
+$EndBOARD
+
+$MODULE "J2"
+reference "J2"
+value "Conn_01x10"
+footprint "ergodox:ErgoCogs_sidecon_bot"
+attribut smd
+position 74.641000 98.000000  orientation 0.00
+layer front
+$PAD "10"
+Shape Rect Layer back
+position -0.030000 10.190000  size  3.000000  1.000000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Rect Layer front
+position -0.030000 10.190000  size  3.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -0.030000  7.650000  size  3.000000  1.000000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer front
+position -0.030000  7.650000  size  3.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position -0.030000  5.110000  size  3.000000  1.000000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer front
+position -0.030000  5.110000  size  3.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position -0.030000  2.570000  size  3.000000  1.000000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position -0.030000  2.570000  size  3.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -0.030000  0.030000  size  3.000000  1.000000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.030000  0.030000  size  3.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J2
+
+$MODULE "J1"
+reference "J1"
+value "Conn_01x06"
+footprint "ergodox:ErgoCogs_sidecon_top"
+attribut smd
+position 74.500000 74.220000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.030000  0.030000  size  3.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -0.030000  0.030000  size  3.000000  1.000000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position -0.030000  2.570000  size  3.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position -0.030000  2.570000  size  3.000000  1.000000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer front
+position -0.030000  5.110000  size  3.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position -0.030000  5.110000  size  3.000000  1.000000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J1
+
+$MODULE "R4"
+reference "R4"
+value "470"
+footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+attribut smd
+position 185.700000 54.637500  orientation 270.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  0.912500  0.000000  size  0.975000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -0.912500  0.000000  size  0.975000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R4
+
+$MODULE "R3"
+reference "R3"
+value "470"
+footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+attribut smd
+position 183.950000 54.650000  orientation 270.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  0.912500  0.000000  size  0.975000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -0.912500  0.000000  size  0.975000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R3
+
+$MODULE "D6"
+reference "D6"
+value "LED_G"
+footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 190.650000 54.725000  orientation 270.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D6
+
+$MODULE "D4"
+reference "D4"
+value "WS2812B"
+footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+attribut smd
+position 190.650000 54.750000  orientation 180.00
+layer back
+$PAD "1"
+Shape Rect Layer back
+position -2.450000  1.600000  size  1.500000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -2.450000 -1.600000  size  1.500000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position  2.450000  1.600000  size  1.500000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  2.450000 -1.600000  size  1.500000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D4
+
+$MODULE "D3"
+reference "D3"
+value "LED_R"
+footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 181.950000 54.725000  orientation 270.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D3
+
+$MODULE "SX0:11"
+reference "SX0:11"
+value "SX0:2"
+footprint "ergodox:MX_FLIP"
+attribut none
+position 68.064380 169.748200  orientation 205.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SX0:11
+
+$MODULE "SX0:10"
+reference "SX0:10"
+value "SX0:3"
+footprint "ergodox:MX_FLIP"
+attribut none
+position 85.331300 161.698940  orientation 205.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SX0:10
+
+$MODULE "SX1:8"
+reference "SX1:8"
+value "SX1:5"
+footprint "ergodox:MX_FLIP"
+attribut none
+position 77.279500 144.432020  orientation 25.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SX1:8
+
+$MODULE "SX1:7"
+reference "SX1:7"
+value "SX1:6"
+footprint "ergodox:MX_FLIP"
+attribut none
+position 60.015120 152.483820  orientation 25.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SX1:7
+
+$MODULE "SW0:11"
+reference "SW0:11"
+value "SW0:2"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 64.038480 161.117280  orientation 115.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0:11
+
+$MODULE "SW0:10"
+reference "SW0:10"
+value "SW0:3"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 81.302860 153.065480  orientation 115.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0:10
+
+$MODULE "D1"
+reference "D1"
+value "WS2812B"
+footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+attribut smd
+position 190.650000 54.750000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -2.450000 -1.600000  size  1.500000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -2.450000  1.600000  size  1.500000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer front
+position  2.450000 -1.600000  size  1.500000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position  2.450000  1.600000  size  1.500000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D1
+
+$MODULE "R1"
+reference "R1"
+value "470"
+footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+attribut smd
+position 183.950000 54.637500  orientation 270.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  0.912500  0.000000  size  0.975000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -0.912500  0.000000  size  0.975000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R1
+
+$MODULE "D2"
+reference "D2"
+value "LED_R"
+footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 181.950000 54.725000  orientation 270.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D2
+
+$MODULE "SW5:13"
+reference "SW5:13"
+value "SW5:0"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 191.452500 67.005200  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW5:13
+
+$MODULE "SW5:12"
+reference "SW5:12"
+value "SW5:1"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 167.640000 67.005200  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW5:12
+
+$MODULE "SW5:11"
+reference "SW5:11"
+value "SW5:2"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 148.590000 63.827660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW5:11
+
+$MODULE "SW5:10"
+reference "SW5:10"
+value "SW5:3"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 129.540000 62.230000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW5:10
+
+$MODULE "SW5:9"
+reference "SW5:9"
+value "SW5:4"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 110.490000 63.827660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW5:9
+
+$MODULE "SW5:8"
+reference "SW5:8"
+value "SW5:5"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 91.440000 65.100200  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW5:8
+
+$MODULE "SW5:7"
+reference "SW5:7"
+value "SW5:6"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 72.390000 65.100200  orientation 90.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW5:7
+
+$MODULE "SW4:13"
+reference "SW4:13"
+value "SW4:0"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 191.452500 86.052660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4:13
+
+$MODULE "SW4:12"
+reference "SW4:12"
+value "SW4:1"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 167.640000 86.052660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4:12
+
+$MODULE "SW4:11"
+reference "SW4:11"
+value "SW4:2"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 148.590000 82.877660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4:11
+
+$MODULE "SW4:10"
+reference "SW4:10"
+value "SW4:3"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 129.540000 81.280000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4:10
+
+$MODULE "SW4:9"
+reference "SW4:9"
+value "SW4:4"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 110.490000 82.877660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4:9
+
+$MODULE "SW4:8"
+reference "SW4:8"
+value "SW4:5"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 91.440000 84.147660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4:8
+
+$MODULE "SW4:7"
+reference "SW4:7"
+value "SW4:6"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 72.390000 88.910160  orientation 90.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4:7
+
+$MODULE "SW3:13"
+reference "SW3:13"
+value "SW3:0"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 191.452500 105.102660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3:13
+
+$MODULE "SW3:12"
+reference "SW3:12"
+value "SW3:1"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 167.640000 105.102660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3:12
+
+$MODULE "SW3:11"
+reference "SW3:11"
+value "SW3:2"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 148.590000 101.927660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3:11
+
+$MODULE "SW3:10"
+reference "SW3:10"
+value "SW3:3"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 129.540000 100.330000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3:10
+
+$MODULE "SW3:9"
+reference "SW3:9"
+value "SW3:4"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 110.490000 101.927660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3:9
+
+$MODULE "SW3:8"
+reference "SW3:8"
+value "SW3:5"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 91.440000 103.197660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3:8
+
+$MODULE "SW2:13"
+reference "SW2:13"
+value "SW2:0"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 191.452500 124.152660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2:13
+
+$MODULE "SW2:12"
+reference "SW2:12"
+value "SW2:1"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 167.640000 124.152660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2:12
+
+$MODULE "SW2:11"
+reference "SW2:11"
+value "SW2:2"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 148.590000 120.977660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2:11
+
+$MODULE "SW2:10"
+reference "SW2:10"
+value "SW2:3"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 129.540000 119.380000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2:10
+
+$MODULE "SW2:9"
+reference "SW2:9"
+value "SW2:4"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 110.490000 120.977660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2:9
+
+$MODULE "SW2:8"
+reference "SW2:8"
+value "SW2:5"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 91.440000 122.247660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2:8
+
+$MODULE "SW2:7"
+reference "SW2:7"
+value "SW2:6"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 72.390000 117.485160  orientation 90.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2:7
+
+$MODULE "SW1:13"
+reference "SW1:13"
+value "SW1:0"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 186.690000 143.202660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1:13
+
+$MODULE "SW1:12"
+reference "SW1:12"
+value "SW1:1"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 167.640000 143.202660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1:12
+
+$MODULE "SW1:11"
+reference "SW1:11"
+value "SW1:2"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 148.590000 140.027660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1:11
+
+$MODULE "SW1:10"
+reference "SW1:10"
+value "SW1:3"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 129.540000 138.430000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1:10
+
+$MODULE "SW1:9"
+reference "SW1:9"
+value "SW1:4"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 110.490000 140.027660  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1:9
+
+$MODULE "SW0:12"
+reference "SW0:12"
+value "SW0:1"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 50.800000 177.800000  orientation 25.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0:12
+
+$MODULE "SW0:9"
+reference "SW0:9"
+value "SW0:4"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 42.748200 160.533080  orientation 25.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0:9
+
+$MODULE "SW0:8"
+reference "SW0:8"
+value "SW0:5"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 51.963320 135.219440  orientation 25.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0:8
+
+$MODULE "SW0:7"
+reference "SW0:7"
+value "SW0:6"
+footprint "ergodox:MX_FLIP_DIODE"
+attribut none
+position 34.698940 143.268700  orientation 25.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "0"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.810000 -2.540000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.540000 -5.080000  size  2.286000  2.286000  orientation 0.00
+drill  1.498600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  5.080000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer both
+position  3.810000  7.620000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  7.620000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0:7
+
+$MODULE "S2"
+reference "S2"
+value "STAB200"
+footprint "ergodox:STAB_PCB940"
+attribut none
+position 81.302860 153.065480  orientation 295.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position 11.938001 -8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.938000 -8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.938000  6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.938000  6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  S2
+
+$MODULE "S1"
+reference "S1"
+value "STAB200"
+footprint "ergodox:STAB_PCB940"
+attribut none
+position 64.038480 161.117280  orientation 115.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position 11.938001 -8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.938000 -8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.938000  6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.938000  6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  S1
+
+$MODULE "R2"
+reference "R2"
+value "470"
+footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+attribut smd
+position 185.700000 54.637500  orientation 270.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  0.912500  0.000000  size  0.975000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -0.912500  0.000000  size  0.975000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R2
+
+$MODULE "D5"
+reference "D5"
+value "LED_G"
+footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 190.650000 54.725000  orientation 270.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D5
+
+$MODULE "H99"
+reference "H99"
+value "MECHANICAL"
+footprint "ergodox:ErgoDOXmech"
+attribut none
+position 50.800000 177.800000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position 16.611600 -123.665200  size  6.375400  6.375400  orientation 0.00
+drill  6.375400
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 150.342600 -123.665200  size  6.375400  6.375400  orientation 0.00
+drill  6.375400
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 88.239600 -86.207600  size  6.375400  6.375400  orientation 0.00
+drill  6.375400
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 150.977600 -37.744400  size  6.375400  6.375400  orientation 0.00
+drill  6.375400
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 54.635400 -20.040600  size  6.375400  6.375400  orientation 0.00
+drill  6.375400
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  8.864600 -56.134000  size  6.375400  6.375400  orientation 0.00
+drill  6.375400
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  3.098800 -11.963400  size  6.375400  6.375400  orientation 0.00
+drill  6.375400
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H99
+
+$MODULE "D1:8"
+reference "D1:8"
+value "D"
+footprint "ergodox:DIODE"
+attribut none
+position 74.058780 137.525760  orientation 25.00
+layer front
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  0.000000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  0.000000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer both
+position  3.810000  0.000000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  0.000000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  0.000000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000  0.000000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D1:8
+
+$MODULE "D1:7"
+reference "D1:7"
+value "D"
+footprint "ergodox:DIODE"
+attribut none
+position 56.794400 145.577560  orientation 25.00
+layer front
+$PAD "99"
+Shape Rect Layer back
+position  1.663700  0.000000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position  1.663700  0.000000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer both
+position  3.810000  0.000000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer back
+position -1.663700  0.000000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "99"
+Shape Rect Layer front
+position -1.663700  0.000000  size  0.838200  0.838200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000  0.000000  size  1.651000  1.651000  orientation 0.00
+drill  0.990600
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D1:7
+
+$EndDESCRIPTION
