@@ -6,6 +6,7 @@ The (conflicting) ideas were:
 * Basic teensy with mini-usb
 * Anything USB-C based
 * Battery - powered bluetooth keyboard
+* Custom STM32-based logic with SMD pre-assembly at factory
 
 So why not have it all? The simplest solution is splitting the design into 2 parts. It has many advantages:
 
@@ -13,7 +14,7 @@ So why not have it all? The simplest solution is splitting the design into 2 par
 * If you get bored with with your basic bitch cherry mx matrix, why not swap it for them crunchy jade kalihs? Maybe just for a weekend? Or maybe sell your old matrix to a fellow hacker!
 * The controller PCBs are small, and hence dirt cheap, and this is where most of customisation would take place. Take your time and experiment with wacky knobs and OLED displays until you get your perfect hackertyper experience.
 
-It also has some disadvantages
+It also has some disadvantages:
 
 * The goldpin connector might be not the most relaiable way to connect 2PCBs. We're yet to check if this concept actually works out. Worst case, both sides may be semi-permanently soldered together with longer pinheaders.
 
