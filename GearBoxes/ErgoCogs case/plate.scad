@@ -1,8 +1,8 @@
 plate_h=1.55;
 board_h=1.5;
 bottom_h=2.05;
-bottom_space=3.5;
-side_h=9;
+bottom_space=3;
+side_h=8.5;
 
 tolerance=0.2;
 screw_d=2.3;
@@ -123,7 +123,11 @@ module brain_bottom_cartridge(usb=false) {
             import("brain_bigger_outline.dxf");
       }
       translate([60,-49-slider_w,bottom_h])
-        cube([slider_l,slider_w,bottom_space-tolerance]); // slider rail
+        cube([slider_l,slider_w,bottom_space-tolerance]); // top slider rail
+      translate([57,-116-slider_w,bottom_h])
+        cube([slider_l,slider_w+6,bottom_space-tolerance]); // middle slider rail
+      translate([23,-135.3-slider_w,bottom_h])
+        cube([slider_l,slider_w,bottom_space-tolerance]); // middle slider rail
     }
     linear_extrude(10)
       offset(delta=1.2)
@@ -147,7 +151,7 @@ module brain_bottom_cartridge(usb=false) {
 module all(plate=false,bottom=false,brain=false, right=false, left=false){
   scale([fix_scale,fix_scale,fix_scale]){
       
-    if(left){
+    if(right){
       if(bottom)
         translate([20,0,0])
           full_bottom();
@@ -160,7 +164,7 @@ module all(plate=false,bottom=false,brain=false, right=false, left=false){
           plate_with_cutouts();
 
     }
-    if(right || !right && !left) // right hand by default
+    if(left || !right && !left) // right hand by default
       mirror([1,0,0]){
         if(bottom)
           translate([20,0,0])
@@ -180,5 +184,5 @@ module all(plate=false,bottom=false,brain=false, right=false, left=false){
 all(brain=true,bottom=true,plate=true,left=true,right=true);
 
 //plate_sample();
-//all(bottom=true,left=true,right=true);
+//all(brain=true,bottom=true,right=true);
 
