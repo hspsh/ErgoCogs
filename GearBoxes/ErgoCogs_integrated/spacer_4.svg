@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="60cm"
+   height="30cm"
+   viewBox="18 44 600.00002 299.99999"
+   version="1.1"
+   id="svg1716"
+   sodipodi:docname="integrated_plate_all_aaaaa.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata1722">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>OpenSCAD Model</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1720">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path1557" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1560" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1562" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1564" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+    <marker
+       id="DistanceX-6"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path1647" />
+    </marker>
+    <pattern
+       id="Hatch-7"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1650" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1652" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1654" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-5" />
+    <symbol
+       id="*PAPER_SPACE-3" />
+    <marker
+       id="DistanceX-5"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path1737" />
+    </marker>
+    <pattern
+       id="Hatch-6"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1740" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1742" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1744" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-2" />
+    <symbol
+       id="*PAPER_SPACE-9" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1500"
+     inkscape:window-height="802"
+     id="namedview1718"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:zoom="0.32083096"
+     inkscape:cx="794.38908"
+     inkscape:cy="440.47678"
+     inkscape:window-x="410"
+     inkscape:window-y="127"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1716"
+     inkscape:document-rotation="0"
+     units="cm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true">
+    <sodipodi:guide
+       position="346.32209,222.92815"
+       orientation="0,-1"
+       id="guide2826" />
+  </sodipodi:namedview>
+  <title
+     id="title1712">OpenSCAD Model</title>
+  <g
+     id="g2844"
+     transform="matrix(0.26458333,0,0,0.26458333,-189.61134,-51.614162)">
+    <path
+       d="m 852.86845,742.14746 a 5.7600001,5.7600001 0 1 0 -11.52,0 5.7600001,5.7600001 0 1 0 11.52,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2830" />
+    <path
+       d="m 1216.9964,809.05946 a 5.7600001,5.7600001 0 1 0 -11.52,0 5.7600001,5.7600001 0 1 0 11.52,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2832" />
+    <path
+       d="m 1389.9884,672.64346 a 5.7600001,5.7600001 0 1 0 -11.52,0 5.7600001,5.7600001 0 1 0 11.52,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2834" />
+    <path
+       id="path2836"
+       style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1321.541,68.117188 -535.72264,0.002 -2.95508,0.232421 -3.8164,1.023438 -3.51954,1.792969 -3.07226,2.486328 -12,12 -1.92383,2.253906 -1.97656,3.421875 -1.22071,3.757813 -0.4121,3.927734 V 442.76562 l 0.23437,2.95508 1.01953,3.81836 1.79492,3.51953 2.48438,3.06836 36.0039,36.00391 2.25586,1.92383 3.41993,1.97656 3.75781,1.2207 3.92578,0.41211 h 257.50784 l 291.6426,135.96875 2.7656,1.03516 3.8906,0.6875 3.9492,-0.13672 3.834,-0.95117 15.9473,-5.79492 2.709,-1.23633 3.2363,-2.26367 2.6953,-2.89063 2.0332,-3.38672 81.9551,-175.75976 1.039,-2.77735 0.6856,-3.89258 -0.1387,-3.94921 -0.9551,-3.83594 -2.3183,-6.36133 -57.3946,-338.265624 -0.6582,-2.679688 -1.6074,-3.609375 -2.3222,-3.195312 -2.9356,-2.644532 -3.4219,-1.974609 -3.7578,-1.220703 -3.5078,-0.369141 v 18.228516 l 0.023,0.01367 0.1172,0.105468 0.094,0.126954 0.064,0.144531 0.025,0.107422 43.8223,263.679691 -46.291,31.18945 c -29.1767,-13.62162 -57.899,-25.92223 -87.0781,-40.99805 v 55.34961 c -1e-4,2.12067 -1.7192,3.83979 -3.8399,3.83985 h -47.4687 c -4.1096,-4.7e-4 -5.3477,5.58373 -1.6231,7.32031 l 39.541,18.4375 c 2.8833,1.3456 6.3115,0.0985 7.6563,-2.78516 l 26.3711,-56.55469 c 0.8962,-1.92125 3.1798,-2.7527 5.1015,-1.85742 l 125.2891,58.42383 c 1.9213,0.89622 2.7526,3.17984 1.8574,5.10156 l -88.8515,190.54297 c -0.8963,1.92233 -3.1814,2.75398 -5.1036,1.85742 l -190.541,-88.85156 c -1.9224,-0.89623 -2.754,-3.18129 -1.8574,-5.10351 l 55.1816,-118.3379 c 1.7798,-3.81851 -1.0078,-8.1933 -5.2207,-8.19335 h -54.7324 c -3.181,1.1e-4 -5.7597,2.57877 -5.7597,5.75976 v 57.59961 c -1e-4,2.12067 -1.7192,3.83978 -3.8399,3.83984 h -66.9394 c -1.5651,2.7e-4 -2.9738,-0.9494 -3.5606,-2.40039 -0.8803,-2.17573 -2.9927,-3.59973 -5.3398,-3.59961 h -58.5606 c -2.3471,-1.6e-4 -4.4595,1.42384 -5.3398,3.59961 -0.5865,1.45032 -1.9942,2.39985 -3.5586,2.40039 h -63.10158 c -3.181,1.1e-4 -5.75967,2.57878 -5.75977,5.75977 v 2.40039 c -10e-5,2.12067 -1.71914,3.83978 -3.83984,3.83984 H 813.38867 c -2.1206,-1.1e-4 -3.83974,-1.71921 -3.83984,-3.83984 v -62.40039 c -10e-5,-3.18099 -2.57877,-5.75966 -5.75977,-5.75977 h -26.125 c -2.0872,-1.3e-4 -3.77919,-1.69209 -3.77929,-3.77929 V 121.00586 c 10e-5,-2.08719 1.69209,-3.77917 3.77929,-3.7793 h 170.125 c 3.181,-1.1e-4 5.75967,-2.57877 5.75977,-5.75976 v -2.40039 c 1e-4,-2.12063 1.71924,-3.83974 3.83984,-3.83985 h 62.40043 c 2.3471,1.2e-4 4.4595,-1.42388 5.3398,-3.59961 0.5868,-1.45099 1.9955,-2.400657 3.5606,-2.400388 h 67.6406 c 1.5644,5.4e-4 2.9721,0.950068 3.5586,2.400388 0.8803,2.17577 2.9927,3.59977 5.3398,3.59961 h 63.6875 c 1.3714,4.6e-4 2.6385,0.73226 3.3242,1.91992 1.0287,1.78248 2.9303,2.88068 4.9883,2.88086 h 109.959 c 0.013,0 0.026,0.004 0.039,0.004 h 6.5527 a 5.7600001,5.7600001 0 0 1 -2.166,-4.5 5.7600001,5.7600001 0 0 1 5.7285,-5.761719 5.7600001,5.7600001 0 0 1 5.793,5.761719 5.7600001,5.7600001 0 0 1 -2.166,4.5 h 20.5722 z"
+       transform="translate(57.574529,311.91373)" />
+    <path
+       d="m 855.19653,417.56866 a 5.7600001,5.7600001 0 1 0 -11.52,0 5.7600001,5.7600001 0 1 0 11.52,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2838" />
+    <path
+       d="m 1497.335,698.23925 a 5.7600001,5.7600001 0 1 0 -11.52,0 5.7600001,5.7600001 0 1 0 11.52,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2840" />
+  </g>
+  <g
+     aria-label="NFS.WORKS"
+     id="text2882"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.09909px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:Iosevka;fill:#ff0000;stroke:none;stroke-width:0.134913" />
+</svg>
